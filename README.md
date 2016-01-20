@@ -9,5 +9,5 @@ Well-documented hackathon starter code using Meteorjs and Reactjs
 ## Base Components
 * Meteorjs: Used for real time data consistency across all clients (MongoDB backend)
 * Reactjs: Used for easy, reactive views on the client. 
-** React-Router: Allows for url-based routing on the client side, decreasing overall load times in the application
+  * React-Router: Allows for url-based routing on the client side, decreasing overall load times in the application
 
