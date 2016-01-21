@@ -1,6 +1,9 @@
 # HackathonStarter
 Well-documented hackathon starter code using Meteorjs and Reactjs
 
+### Note
+`base-project/` can be renamed and extended with no side effects, so feel free to call it whatever you want
+
 ## Goals
 * Well documented starter code
 * Works on linux and OS X (windows planned in the future)
